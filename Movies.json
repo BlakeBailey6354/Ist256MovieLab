@@ -1,0 +1,32 @@
+[
+    { 
+        "id": 1, 
+        "title": "Avengers Infinity War", 
+        "director": "Russo Brothers", 
+        "stars": "Josh Brolin, Robert Downey Jr."
+    },
+    { 
+        "id": 2, 
+        "title": "Avengers Endgame", 
+        "director": "Russo Brothers", 
+        "stars": "Robert Downey Jr., Chris Evans"
+    },
+    { 
+        "id": 3, 
+        "title": "Spider-Man: No Way Home", 
+        "director": "Jon Watts", 
+        "stars": "Tom Holland, Zendaya" 
+    },
+    { 
+        "id": 4, 
+        "title": "Thor Love and Thunder", 
+        "director": "Taika Waititi", 
+        "stars": "Chris Hemsworth, Christian Bale"
+    },
+    { 
+        "id": 5, 
+        "title": "Black Panther: Wakanda Forever", 
+        "director": "Ryan Coogler", 
+        "stars": "Lititia Wright, Tenoch Huerta"
+    }
+]
